@@ -37,7 +37,7 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: Climbing
+      - item: Board Games
         link:
 
       - item: Snowboarding
@@ -56,9 +56,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Business Informatics
+      university: Financial University under the Government of the Russian Federation
+      time: 2019 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -67,9 +67,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Economics
+      university: Financial University under the Government of the Russian Federation
+      time: 2015 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
